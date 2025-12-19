@@ -45,7 +45,7 @@ The system is designed for **"Fast Laptop Performance"**:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [(https://github.com/HarshRajj/physician-notetaker-emittr)]
+    git clone https://github.com/HarshRajj/physician-notetaker-emittr
     cd physician-notetaker-emittr
     ```
 
